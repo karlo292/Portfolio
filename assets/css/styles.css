@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Roboto;
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  background-image: url("background.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+body {
+  font-family: roboto;
+  background: url(../../assets/img/background.png) no-repeat center center fixed;
+  background-size: 125%;
+}
+
+#footer {
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+
